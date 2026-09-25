@@ -1,4 +1,4 @@
-## Hi there 👋
+I help early-stage founders make the platform and product decisions that determine whether their company can make the next leap. Most of my work is with B2B SaaS companies serving SMB and mid-market customers, where tight product/engineering coordination is the difference between scaling and stalling.
 
 <!--
 **JimMayes/jimmayes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
